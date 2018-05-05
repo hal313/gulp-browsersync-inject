@@ -1,7 +1,7 @@
 {
   "name": "gulp-browsersync-inject",
   "description": "Inject BrowserSync code into an HTML document",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/hal313/gulp-browsersync-inject",
   "repository": {
     "type": "git",
